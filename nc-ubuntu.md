@@ -61,7 +61,9 @@ Why?  I've answered it above.
    | A    | @    | Your Public IP Address (Mine 24.99.139.xxx) | Auto |
    | A    | www  | Your Public IP Address (Mine 24.99.139.xxx) | Auto |
 
-5. On next page, copy both Cloudflare's nameservers and paste them into Nameserver 1 and Nameserver 2 on Freenom site.  Click 
+   
+
+5. On next page, copy both Cloudflare's nameservers and paste them into Nameserver 1 and Nameserver 2 on Freenom site. 
 
    ![Screen Shot 2021-01-05 at 11.35.13 PM](/Users/thuanvo/Library/Application Support/typora-user-images/Screen Shot 2021-01-05 at 11.35.13 PM.png)
 
